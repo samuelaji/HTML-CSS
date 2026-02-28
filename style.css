@@ -10,7 +10,7 @@ html {
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(135deg, #3d0af2 0%, #ffffff 100%);
     color: #333;
     min-height: 100vh;
 }
@@ -26,13 +26,13 @@ body {
 
 .hero h1 {
     font-size: 3rem;
-    color: #2c3e50;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 
 .hero p {
     font-size: 1.2rem;
-    color: #34495e;
+    color: #ffffff;
 }
 
 nav {
@@ -81,7 +81,7 @@ nav a:hover {
 }
 
 .profile-img {
-    border-radius: 50%;
+    border-radius: 10%;
     display: block;
     margin: 0 auto 15px auto;
 }
